@@ -1,3 +1,5 @@
+# 🎓 42 School profile
+[![tmory's 42 stats](https://badge.mediaplus.ma/darkblue/tmory?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/justino-mory) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmory82@gmail.com) 
@@ -8,9 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=toky888&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=toky888&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=toky888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🎓 42 School badges
-[![tmory's 42 stats](https://badge.mediaplus.ma/darkblue/tmory?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
